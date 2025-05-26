@@ -15,8 +15,8 @@ first 8 grade project
 
 ## 🌐 Key Pages
 
-1. **TEXT** - Information about us
-2. **TEXT** - All our cars
+1. **TEXT** - describtion
+2. **TEXT** - describtion
 3. **TEXT** - describtion
 4. **TEXT** - describtion
 5. **TEXT** - describtion
